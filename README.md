@@ -742,3 +742,7 @@ A Dataset of Clinical Case Reports for Machine Reading Comprehension
 论文链接：https://www.paperweekly.site/papers/1790
 
 数据集链接：https://github.com/clips/clicr
+
+## 资料
+
+https://github.com/beamandrew/medical-data
